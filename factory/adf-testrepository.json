@@ -1,0 +1,9 @@
+{
+	"name": "adf-testrepository",
+	"location": "uaenorth",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "21fac0fc-b804-4b49-b62c-1ff6ea6279a3",
+		"tenantId": "21a02d81-02b0-4ef3-8a04-b908c9f3cc85"
+	}
+}
